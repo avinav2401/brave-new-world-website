@@ -141,8 +141,8 @@ Project Link: [https://github.com/yourusername/brave-new-world-website](https://
 - Google Fonts for the beautiful typography
 - The open-source community for inspiration
 
-## 📸 Screenshots
 
 
 **Note**: This is an educational project created for study purposes. All rights to *Brave New World* belong to the estate of Aldous Huxley.
+
 
