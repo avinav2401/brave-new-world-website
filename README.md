@@ -2,7 +2,7 @@
 
 A modern, interactive web-based study guide for Aldous Huxley's dystopian masterpiece *Brave New World*. This project features a stunning dark theme with dynamic content loading and premium design aesthetics.
 
-![Brave New World](images/book-cover.jpg)
+![Brave New World]
 
 ## ✨ Features
 
@@ -143,12 +143,6 @@ Project Link: [https://github.com/yourusername/brave-new-world-website](https://
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Character Profiles
-![Character Profiles](screenshots/characters.png)
-
----
 
 **Note**: This is an educational project created for study purposes. All rights to *Brave New World* belong to the estate of Aldous Huxley.
+
